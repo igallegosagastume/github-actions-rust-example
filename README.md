@@ -2,5 +2,5 @@
 
 ## This is the build status:
 
-[![Build binary release](https://github.com/igallegosagastume/github-actions-rust-example/actions/workflows/release.yml/badge.svg)](https://github.com/igallegosagastume/github-actions-rust-example/actions/workflows/release.yml)
+[![Build binary release](https://github.com/igallegosagastume/github-actions-rust-example/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/igallegosagastume/github-actions-rust-example/actions/workflows/release.yml)
 
